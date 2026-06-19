@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert d670929 Merge pull request #1 from Suha-cmd631/bug-fix-typo
+  bug-fix-typo   d670929 Merge pull request #1 from Suha-cmd631/bug-fix-typo
+  main           d670929 [origin/main] Merge pull request #1 from Suha-cmd631/bug-fix-typo
